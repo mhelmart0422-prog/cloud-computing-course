@@ -34,3 +34,5 @@ Backup and disaster recovery
 Enterprise databases
 AI/ML applications
 
+Screenshot
+<img width="945" height="436" alt="aws-console png" src="https://github.com/user-attachments/assets/823157cd-dff6-4a01-aaf8-3d332f0c0506" />
