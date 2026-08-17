@@ -21,20 +21,6 @@ The KillerCoda Linux environment was examined using Linux commands to identify:
 
 ## Cloud VM Options
 
-| Provider | Linux VM Service |
-|---|---|
-| AWS | Amazon EC2 |
-| Azure | Azure Virtual Machines |
-| GCP | Compute Engine |
-
-
-
-
-
-
-
-
-
 | Provider | Service                |
 | -------- | ---------------------- |
 | AWS      | Amazon EC2             |
