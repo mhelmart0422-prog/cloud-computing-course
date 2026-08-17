@@ -1,12 +1,14 @@
-Comparison Table
-Category	AWS	Microsoft Azure	Google Cloud
-Launch Year	2006	2010	2008*
-Compute Service	Amazon EC2	Azure Virtual Machines	Compute Engine
-Storage Service	Amazon S3	Azure Blob Storage	Cloud Storage
-Networking Service	Amazon VPC	Azure Virtual Network	Virtual Private Cloud
-Identity Service	AWS IAM	Microsoft Entra ID	Cloud IAM
-Primary Strength	Broad service portfolio	Microsoft integration	AI, data, Kubernetes
-Ideal Organizations	Startups and enterprises	Microsoft-based enterprises	AI/data-focused organizations
+
+
+| Category            | AWS                      | Microsoft Azure               | Google Cloud Platform             |
+| ------------------- | ------------------------ | ----------------------------- | --------------------------------- |
+| Launch Year         | 2006                     | 2010                          | 2008                              |
+| Compute Service     | Amazon EC2               | Azure Virtual Machines        | Compute Engine                    |
+| Storage Service     | Amazon S3                | Azure Blob Storage            | Cloud Storage                     |
+| Networking Service  | Amazon VPC               | Azure Virtual Network         | Virtual Private Cloud             |
+| Identity Service    | AWS IAM                  | Microsoft Entra ID            | Cloud IAM                         |
+| Primary Strength    | Broad range of services  | Microsoft integration         | AI, data, and Kubernetes          |
+| Ideal Organizations | Startups and enterprises | Microsoft-based organizations | AI and data-focused organizations |
 
 
 Questions and Answers
