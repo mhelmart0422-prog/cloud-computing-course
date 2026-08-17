@@ -4,9 +4,10 @@ Mission 3 – Multi-Cloud Explorer Reflection
 The cloud platform that impressed me the most is Amazon Web Services (AWS) because it offers a wide range of services for different types of applications and organizations. I also like its scalability and flexibility.
 
 2. What similarities exist among AWS, Azure, and GCP?
+   
 AWS, Azure, and GCP all provide similar basic cloud services, including virtual machines, storage, databases, networking, identity management, and Kubernetes. They also allow organizations to scale resources and run applications using cloud infrastructure.
 
-3. How do business requirements influence cloud platform selection?
+3 How do business requirements influence cloud platform selection?
 
 Business requirements determine which cloud platform is most appropriate for an organization. Factors such as budget, existing technology, performance, security, scalability, and application requirements should be considered before choosing a provider.
 
