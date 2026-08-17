@@ -1,3 +1,26 @@
+Client Recommendations
+
+Client Recommendation Table
+
+| Client                               | Recommended Platform | Recommended Services                                           |
+| ------------------------------------ | -------------------- | -------------------------------------------------------------- |
+| Client A – Startup Company           | AWS                  | Amazon EC2, Amazon S3, Amazon RDS                              |
+| Client B – University                | Microsoft Azure      | Azure Virtual Machines, Microsoft Entra ID, Azure SQL Database |
+| Client C – AI Research Company       | Google Cloud         | Compute Engine, Vertex AI, Google Kubernetes Engine            |
+| Client D – Global E-Commerce Company | AWS                  | Amazon EC2, Elastic Load Balancing, Amazon EC2 Auto Scaling    |
+
+Decision Matrix
+
+| Business Requirement    | Recommended Platform | Justification                                           |
+| ----------------------- | -------------------- | ------------------------------------------------------- |
+| Startup Company         | AWS                  | Broad range of services and scalable infrastructure     |
+| Enterprise Organization | AWS                  | Extensive enterprise services and global infrastructure |
+| Microsoft Environment   | Microsoft Azure      | Strong integration with Microsoft technologies          |
+| AI / Machine Learning   | Google Cloud         | Strong AI and machine-learning capabilities             |
+| Kubernetes Deployment   | Google Cloud         | Strong Kubernetes capabilities through GKE              |
+| Global Web Application  | AWS                  | Scalable infrastructure and global availability         |
+
+
 Client A — Startup Company
 Recommended Platform: AWS
 
